@@ -1,0 +1,23 @@
+.tache {
+    background-color: gray;
+    max-width: 75%;
+    min-width: 300px;
+    margin: 0.5rem;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    transition: background-color 0.5s;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;;
+    text-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;;
+}
+
+.reussi {
+    background-color: green;
+}
+
+.enattente {
+    background-color: orange;
+}
+
+.nouveau {
+    background-color: darkcyan;
+}

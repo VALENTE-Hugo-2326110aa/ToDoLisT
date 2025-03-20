@@ -1,4 +1,27 @@
 header {
     width: 100%;
-    background: white;
+    background: #333;
+    color: white;
+}
+
+header h1 {
+    margin: 0;
+    padding: 1rem;
+    text-align: center;
+}
+
+section {
+    width: 100%;
+    background: #333;
+    color: white;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#infos-taches {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    text-align: center;
 }
